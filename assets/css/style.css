@@ -6,6 +6,8 @@
     height: 600px;
     background-color: #4d0f00;
     overflow: hidden;
+    /* using filter property to blur the painting  */
+    filter: blur(2px);
 }
 
 .frame {
